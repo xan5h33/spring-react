@@ -1,2 +1,3 @@
 # spring-react
-test commit
+
+Practicing fullstack application with spring-boot and ReactJS.
